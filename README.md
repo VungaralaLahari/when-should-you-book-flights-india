@@ -140,6 +140,13 @@ Identify cheapest airlines and routes
 Understand pricing patterns in Indian aviation
 
 ---
+ Notebook Viewer 
+
+If the notebook does not render properly on GitHub, view it using nbviewer:
+
+https://nbviewer.org/github/VungaralaLahari/when-should-you-book-flights-india/blob/main/Flight_Price_Intelligence.ipynb
+
+--- 
 Conclusion
 
 This project transforms raw flight data into actionable insights and a real-world application, bridging data analysis and practical decision-making.
