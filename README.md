@@ -84,8 +84,8 @@ Used SQLite to perform analytical queries:
 - Features:
   - Airline, Route, Days Left, Stops, Time, Class
 - Metrics:
-  - RMSE: (your value)
-  - R² Score: (your value)
+  - RMSE: 4530.63
+  - R² Score: 0.96
 
 ### Why Random Forest?
 - Handles non-linear relationships
